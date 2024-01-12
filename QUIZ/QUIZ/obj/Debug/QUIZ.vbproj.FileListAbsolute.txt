@@ -1,0 +1,35 @@
+D:\SISTEM INFORMASI S1\smester 3\Algoritma\QUIZ\QUIZ\obj\Debug\QUIZ.vbproj.AssemblyReference.cache
+D:\SISTEM INFORMASI S1\smester 3\Algoritma\QUIZ\QUIZ\obj\Debug\QUIZ.Form1.resources
+D:\SISTEM INFORMASI S1\smester 3\Algoritma\QUIZ\QUIZ\obj\Debug\QUIZ.Nilai.resources
+D:\SISTEM INFORMASI S1\smester 3\Algoritma\QUIZ\QUIZ\obj\Debug\QUIZ.Resources.resources
+D:\SISTEM INFORMASI S1\smester 3\Algoritma\QUIZ\QUIZ\obj\Debug\QUIZ.vbproj.GenerateResource.cache
+D:\SISTEM INFORMASI S1\smester 3\Algoritma\QUIZ\QUIZ\obj\Debug\QUIZ.vbproj.CoreCompileInputs.cache
+D:\SISTEM INFORMASI S1\smester 3\Algoritma\QUIZ\QUIZ\bin\Debug\QUIZ.exe.config
+D:\SISTEM INFORMASI S1\smester 3\Algoritma\QUIZ\QUIZ\bin\Debug\QUIZ.exe
+D:\SISTEM INFORMASI S1\smester 3\Algoritma\QUIZ\QUIZ\bin\Debug\QUIZ.pdb
+D:\SISTEM INFORMASI S1\smester 3\Algoritma\QUIZ\QUIZ\bin\Debug\QUIZ.xml
+D:\SISTEM INFORMASI S1\smester 3\Algoritma\QUIZ\QUIZ\obj\Debug\QUIZ.exe
+D:\SISTEM INFORMASI S1\smester 3\Algoritma\QUIZ\QUIZ\obj\Debug\QUIZ.xml
+D:\SISTEM INFORMASI S1\smester 3\Algoritma\QUIZ\QUIZ\obj\Debug\QUIZ.pdb
+D:\SISTEM INFORMASI S1\smester 3\Algoritma\QUIZ\QUIZ\obj\Debug\QUIZ.RentalMobil.resources
+D:\SISTEM INFORMASI S1\smester 3\Algoritma\QUIZ\QUIZ\obj\Debug\QUIZ.SewaMobil2.resources
+D:\SISTEM INFORMASI S1\smester 3\Algoritma\QUIZ\QUIZ\obj\Debug\QUIZ.SewaHotel2.resources
+D:\SISTEM INFORMASI S1\smester 3\Algoritma\QUIZ\QUIZ\obj\Debug\QUIZ.BookHotel.resources
+D:\SISTEM INFORMASI\smester 3\Algoritma\QUIZ\QUIZ\bin\Debug\QUIZ.exe.config
+D:\SISTEM INFORMASI\smester 3\Algoritma\QUIZ\QUIZ\bin\Debug\QUIZ.exe
+D:\SISTEM INFORMASI\smester 3\Algoritma\QUIZ\QUIZ\bin\Debug\QUIZ.pdb
+D:\SISTEM INFORMASI\smester 3\Algoritma\QUIZ\QUIZ\bin\Debug\QUIZ.xml
+D:\SISTEM INFORMASI\smester 3\Algoritma\QUIZ\QUIZ\obj\Debug\QUIZ.vbproj.AssemblyReference.cache
+D:\SISTEM INFORMASI\smester 3\Algoritma\QUIZ\QUIZ\obj\Debug\QUIZ.Form1.resources
+D:\SISTEM INFORMASI\smester 3\Algoritma\QUIZ\QUIZ\obj\Debug\QUIZ.SewaHotel2.resources
+D:\SISTEM INFORMASI\smester 3\Algoritma\QUIZ\QUIZ\obj\Debug\QUIZ.SewaMobil2.resources
+D:\SISTEM INFORMASI\smester 3\Algoritma\QUIZ\QUIZ\obj\Debug\QUIZ.Nilai.resources
+D:\SISTEM INFORMASI\smester 3\Algoritma\QUIZ\QUIZ\obj\Debug\QUIZ.BookHotel.resources
+D:\SISTEM INFORMASI\smester 3\Algoritma\QUIZ\QUIZ\obj\Debug\QUIZ.RentalMobil.resources
+D:\SISTEM INFORMASI\smester 3\Algoritma\QUIZ\QUIZ\obj\Debug\QUIZ.Resources.resources
+D:\SISTEM INFORMASI\smester 3\Algoritma\QUIZ\QUIZ\obj\Debug\QUIZ.vbproj.GenerateResource.cache
+D:\SISTEM INFORMASI\smester 3\Algoritma\QUIZ\QUIZ\obj\Debug\QUIZ.vbproj.CoreCompileInputs.cache
+D:\SISTEM INFORMASI\smester 3\Algoritma\QUIZ\QUIZ\obj\Debug\QUIZ.exe
+D:\SISTEM INFORMASI\smester 3\Algoritma\QUIZ\QUIZ\obj\Debug\QUIZ.xml
+D:\SISTEM INFORMASI\smester 3\Algoritma\QUIZ\QUIZ\obj\Debug\QUIZ.pdb
+D:\SISTEM INFORMASI\smester 3\Algoritma\QUIZ\QUIZ\obj\Debug\QUIZ.GanjilGenap.resources
